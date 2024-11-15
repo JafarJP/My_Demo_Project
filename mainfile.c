@@ -35,12 +35,7 @@ int main()
 
 
 
-int div(int a, int b)
+int sub1(int a, int b)
 {
-    return a/b;
-}
-int multi(int x, int y)
-{
-    return x*y;
-
+    return a-b;
 }
